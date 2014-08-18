@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version     = '0.0.0'
   s.date        = '2014-08-17'
   s.summary     = "Year-month date/time string formatter"
-  s.description = "Converts dates and times into a year-month formatted string like this: 2011-12. Or: 1776-07"
+  s.description = "Converts dates and times into a year-month formatted string like '2011-12' or '1776-07'"
   s.authors     = ["Teddy Widom"]
   s.email       = 'theodore.widom@gmail.com'
   s.files       = ["lib/year_month.rb"]
